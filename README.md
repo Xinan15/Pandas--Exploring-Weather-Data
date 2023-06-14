@@ -1,3 +1,2 @@
 # Pandas--Exploring-Weather-Data
-Exploring 200 years of European Weather Data by pandas in Jupyter.<br>
-Data visualisation by pandas, numpy.
+This showcases sample data visualisation from the previous 200 years of European Weather Data, using pandas and numpy in Jupyter.
